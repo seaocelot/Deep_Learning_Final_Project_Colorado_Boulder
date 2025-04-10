@@ -1,0 +1,4 @@
+Above is the Jupyter Notebook for my final project for Introduction to Deep Learning at the University of Colorado Boulder. The final project is the development of a neural network model that classifies mushrooms as either edible or poisonous.
+Also included is a csv file containing the mushrooms data: predictor variables and response variable. The mushrooms data was obtained from the University of California Irvine Machine Learning Repository. The data was called in as two pandas dataframes
+that were part of a python Dotdict data structure. One dataframe contained the predictor variables and the other dataframe contained the response variable. The two pandas dataframes were combined and then converted to a csv file.
+The citation for the mushrooms data is: "Mushroom." UCI Machine Learning Repository, 1981, https://archive.ics.uci.edu/dataset/73/mushroom
